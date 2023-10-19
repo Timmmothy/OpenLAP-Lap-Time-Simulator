@@ -1,0 +1,49 @@
+_______                    ____________________________________ __
+__  __ \______________________  __/__  __ \__    |_  ____/__  //_/
+_  / / /__  __ \  _ \_  __ \_  /  __  /_/ /_  /| |  /    __  ,<   
+/ /_/ /__  /_/ /  __/  / / /  /   _  _, _/_  ___ / /___  _  /| |  
+\____/ _  .___/\___//_/ /_//_/    /_/ |_| /_/  |_\____/  /_/ |_|  
+       /_/                                                        
+==================================================================
+MIS Endurance 2023.xlsx
+File read successfully
+==================================================================
+Name:          MIS Endurance 2023
+City:          Brooklyn
+Country:       USA
+Type:          Permanent
+Configuration: Closed
+Direction:     Forward
+Mirror:        Off
+Date:          05/10/2023
+Time:          14:51:55
+==================================================================
+Track generation started.
+Pre-processing completed.
+Fine meshing completed with mesh size: 1 [m]
+Apex calculation completed.
+Track rotated.
+Closing fine mesh map.
+Fine mesh map closed.
+Fine mesh map created.
+Plots created and saved.
+Track generated successfully.
+Map:
+                                  oooooooo ooo                     
+                          ooooooooo      ooo oooooooooooooooo  oooo
+                         oo                                 oooo  o
+                        oo                                        o
+                       oo                                        oo
+    ooooooooo         oo                                        oo 
+oooo        oooooo  ooo                                        oo  
+ oo              oooo                                          o   
+ oo                                                           oo   
+ o                                                           oo    
+ o                                                           o     
+ o                                                          oo     
+ o                                                          o      
+ o                              ooooo                      oo      
+ oo             ooo ooo  oooooooo ooooooooooo              oo      
+  oo     oooo   o ooo oooo            oo    oo   ooooooo   oo      
+   oo    o  ooooo      oo                    ooooo     ooooo       
+    oooooo                                                         

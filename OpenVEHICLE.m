@@ -39,7 +39,8 @@ fclose('all') ;
 
 %% Vehicle file selection
 
-filename = 'Formula 1.xlsx' ;
+% filename = 'FB23.xlsx' ;
+filename = 'FB24.xlsx' ;
 
 %% Reading vehicle file
 

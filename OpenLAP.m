@@ -34,6 +34,7 @@
 %
 % April 2020.
 
+OpenVEHICLE;
 %% Clearing memory
 
 clear
@@ -48,8 +49,10 @@ tic
 
 %% Filenames
 
-trackfile = 'OpenTRACK Tracks/OpenTRACK_Spa-Francorchamps_Closed_Forward.mat' ;
-vehiclefile = 'OpenVEHICLE Vehicles/OpenVEHICLE_Formula 1_Open Wheel.mat' ;
+trackfile = 'OpenTRACK Tracks/OpenTRACK_MIS Endurance 2023_Closed_Forward.mat' ;
+% vehiclefile = 'OpenVEHICLE Vehicles/OpenVEHICLE_FB23_Open Wheel.mat' ;
+vehiclefile = 'OpenVEHICLE Vehicles/OpenVEHICLE_FB24_Open Wheel.mat' ;
+
 
 %% Loading circuit
 

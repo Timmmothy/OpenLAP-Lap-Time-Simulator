@@ -58,14 +58,7 @@ fclose('all') ;
 
 %% Track file selection
 
-% filename = 'Paul Ricard data.csv' ;
-% filename = 'Spa-Francorchamps.xlsx' ;
-% filename = 'Monza Data.csv' ;
-% filename = 'OpenTRACK Laguna Seca Data.csv' ;
-% filename = 'OpenTRACK Paul Ricard Data.csv' ;
-filename = 'OpenTRACK_FSAE_UK_Endurance_2015.xlsx' ;
-% filename = 'OpenTRACK KZ2 Kart Data - Rhodes.csv' ;
-% filename = 'OpenTRACK KZ2 Kart Data - Athens.csv' ;
+filename = 'MIS Endurance 2023.xlsx';
 
 %% Mode selection
 
